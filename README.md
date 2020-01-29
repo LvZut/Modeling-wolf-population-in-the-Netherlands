@@ -9,8 +9,9 @@ This repository contains two jupyter notebooks:
 
 The first notebook contains the most recent code. The second notebook is an older implementation containing a model with only a single predator and a single prey.
 
+
 ### Dependencies
-To run the code you need jupyter notebook. To install this for Python 3, run the command:
+To run the code you need jupyter notebook. If you use an Anaconda Distribution, jupyter notebook is already installed. For others,  install jupyter notebook for Python 3 with the following run the command:
     ```
     pip3 install jupyter
     ```
@@ -23,11 +24,12 @@ The following modules are used in the code:
     - matplotlib.pyplot
     - scipy
     
-If youuse an Anaconda Distribution all these modules are already installed. If not you can use the following command to install them:
+If you use an Anaconda Distribution all these modules are already installed. If not you can use the following command to install them:
 ```python -m pip install --user numpy scipy matplotlib```
 
 For more information on how to install these modules, refer to:
 https://www.scipy.org/install.html
+
 
 ### How to reproduce the graphs?
 Run the command: ```jupyter notebook``` in your terminal to open jupyter notebook.
