@@ -3,8 +3,8 @@
 To run the code you need:
 
     - jupyter notebook
-    
-    - scypy
+
+    - scipy
 
 run the command: jupyter notebook in your terminal to open jupyter notebook.
 
