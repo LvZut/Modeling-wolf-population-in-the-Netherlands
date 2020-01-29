@@ -1,4 +1,4 @@
-# Modeling-wolf-population-in-the-Netherlands
+# Modeling wolf population in the Netherlands
 ### Project description
 This Github repository contains code that can be used to simulate and visualise the effects of several factors and events in an ecosystem with a single predator and two types of prey. 
 
