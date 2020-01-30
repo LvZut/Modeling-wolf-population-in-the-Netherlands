@@ -9,7 +9,7 @@ This repository contains two jupyter notebooks:
 
 The first notebook contains the most recent code. The second notebook is an older implementation containing a model with only a single predator and a single prey.
 
-![Model](/figures/population_model.png)
+![Model](/Figures/population_model.png)
 
 
 ### Dependencies
