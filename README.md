@@ -9,6 +9,8 @@ This repository contains two jupyter notebooks:
 
 The first notebook contains the most recent code. The second notebook is an older implementation containing a model with only a single predator and a single prey.
 
+![Model](/figures/population_model.png)
+
 
 ### Dependencies
 To run the code you need jupyter notebook. If you use an Anaconda Distribution, jupyter notebook is already installed. For others,  install jupyter notebook for Python 3 with the following run the command:
